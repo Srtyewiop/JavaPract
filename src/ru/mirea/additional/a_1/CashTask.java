@@ -1,4 +1,4 @@
-package ru.mirea.a_1;
+package ru.mirea.additional.a_1;
 import java.util.Scanner;
 
 public class CashTask {
