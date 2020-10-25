@@ -11,8 +11,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Characters {
-
-    // Выглядит как 💩, но она работает 🤙🏻🤙🏻🤙🏻
     public static String GenSpaces(int a){
         String re = "";
         for(int i = 0; i <= a; i++){
